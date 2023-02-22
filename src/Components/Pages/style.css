@@ -1,0 +1,10 @@
+.container {
+  width: 100%;
+  
+  margin: auto !important;
+
+}
+
+body {
+  background: hsl(272, 100%, 97%);
+}
